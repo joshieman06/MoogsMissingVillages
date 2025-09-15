@@ -1,0 +1,18 @@
+{
+  "placement": {
+    "type": "moogs_structures:advanced_random_spread",
+    "salt": 447592039,
+    "separation": 16,
+    "spacing": 70
+  },
+  "structures": [
+    {
+      "structure": "mmv:village_swamp",
+      "weight": 1
+    },
+    {
+      "structure": "mmv:village_jungle",
+      "weight": 1
+    }
+  ]
+}

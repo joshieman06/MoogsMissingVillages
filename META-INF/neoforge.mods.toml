@@ -1,0 +1,14 @@
+
+modLoader = 'javafml'
+loaderVersion = '[1,)'
+license = 'GNU Lesser General Public License v3.0'
+showAsResourcePack = false
+mods = [
+	{ modId = 'mmv', version = '1.0.0', displayName = "Moog's Missing Villages", description = 'Adds the two missing vanilla village types: swamp and jungle villages.', logoFile = 'icon.png', credits = '', authors = 'FinnDog', displayURL = 'https://www.curseforge.com/minecraft/mc-mods/moogs-temples-reimagined' },
+]
+[[dependencies.mmv]]
+modId = "moogs_structures"
+mandatory = true
+versionRange = "[1.0,)"
+ordering = "NONE"
+side = "BOTH"
